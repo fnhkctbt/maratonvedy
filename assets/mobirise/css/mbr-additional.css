@@ -1395,11 +1395,11 @@ a {
   width: 3.5rem;
 }
 .cid-uHp0Gov753 .number-wrap {
-  color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 .cid-uHp0Gov753 .number {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-uHp0Gov753 .period {
   display: block;
@@ -1444,6 +1444,10 @@ a {
   .cid-uHp0Gov753 .icons-menu .soc-item a .mbr-iconfont:before {
     padding: 1.2rem;
   }
+}
+.cid-uHp0Gov753 .mbr-text,
+.cid-uHp0Gov753 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-tMlEXTHLbS {
   padding-top: 0rem;
