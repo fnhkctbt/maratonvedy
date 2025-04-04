@@ -1436,7 +1436,7 @@ a {
 .cid-uHnkwA9MCI {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #ffffff;
+  background-color: #edefeb;
 }
 .cid-uHnkwA9MCI .mbr-fallback-image.disabled {
   display: none;
@@ -1930,9 +1930,9 @@ a {
   max-width: 800px;
 }
 .cid-uHngg60KcL {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #edefeb;
 }
 .cid-uHngg60KcL img,
 .cid-uHngg60KcL .item-img {
@@ -1948,7 +1948,7 @@ a {
 .cid-uHngg60KcL .slide-content {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #edefeb;
   height: 100%;
   display: flex;
   overflow: hidden;
