@@ -50,24 +50,38 @@
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 82,
+    "uniqCompNum": 85,
     "versionPublish": "6.0.1",
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "ktjot1jvkl",
+    "mbrsiteDomain": "mia69djphz",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#ffffff",
+      "colorButton": "#086784",
+      "rejectColor": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacityOverlay": "0",
+      "bgOpacity": "100",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "GOT IT",
+      "rejectText": "REJECT"
+    },
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
