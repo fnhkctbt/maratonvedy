@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Maraton vědy",
-    "currentPage": "index.html",
+    "currentPage": "maratonvedy2025.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -3839,7 +3839,7 @@
         }
       ]
     },
-    "page3.html": {
+    "maratonvedy2025.html": {
       "settings": {
         "title": "Maraton Vědy 2025",
         "order": "3"
